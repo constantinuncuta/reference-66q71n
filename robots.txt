@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://constantinuncuta.github.io/reference-66q71n/sitemap.xml
